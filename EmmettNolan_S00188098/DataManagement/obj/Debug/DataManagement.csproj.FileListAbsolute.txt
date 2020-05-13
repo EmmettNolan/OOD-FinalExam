@@ -1,0 +1,15 @@
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\bin\Debug\DataManagement.exe.config
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\bin\Debug\DataManagement.exe
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\bin\Debug\DataManagement.pdb
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\bin\Debug\EmmettNolan_S00188098.exe
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\bin\Debug\EntityFramework.dll
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\bin\Debug\EmmettNolan_S00188098.pdb
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\bin\Debug\EmmettNolan_S00188098.exe.config
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\bin\Debug\EntityFramework.xml
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\obj\Debug\DataManagement.csprojAssemblyReference.cache
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\obj\Debug\DataManagement.csproj.CoreCompileInputs.cache
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\obj\Debug\DataManagement.csproj.CopyComplete
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\obj\Debug\DataManagement.exe
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\DataManagement\obj\Debug\DataManagement.pdb

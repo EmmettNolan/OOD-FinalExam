@@ -13,3 +13,8 @@ C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\EmmettNolan
 C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\EmmettNolan_S00188098\obj\Debug\EmmettNolan_S00188098.csproj.CoreCompileInputs.cache
 C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\EmmettNolan_S00188098\obj\Debug\EmmettNolan_S00188098.exe
 C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\EmmettNolan_S00188098\obj\Debug\EmmettNolan_S00188098.pdb
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\EmmettNolan_S00188098\bin\Debug\EntityFramework.dll
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\EmmettNolan_S00188098\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\EmmettNolan_S00188098\bin\Debug\EntityFramework.xml
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\EmmettNolan_S00188098\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\EmmettNolan_S00188098\obj\Debug\EmmettNolan_S00188098.csproj.CopyComplete

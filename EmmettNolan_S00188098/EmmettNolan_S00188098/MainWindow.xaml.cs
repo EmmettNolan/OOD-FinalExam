@@ -20,9 +20,30 @@ namespace EmmettNolan_S00188098
     /// </summary>
     public partial class MainWindow : Window
     {
+        List<Phone> Phones = new List<Phone>();
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            PhoneLbx.ItemsSource = Phones;
+            PriceBx.Text = "No Phone Selected";
+        }
+
+        private void PhoneLbx_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            Phone selectedPhone = PhoneLbx.SelectedItem as Phone;
+            if(Phones != null)
+            {
+                //adds price
+                PriceBx.Text = selectedPhone.Price;
+            }
+            else
+            {
+                PriceBx.Text = null;
+            }
         }
     }
 }
