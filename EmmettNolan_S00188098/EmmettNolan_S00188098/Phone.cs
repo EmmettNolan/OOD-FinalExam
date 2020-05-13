@@ -6,12 +6,17 @@ using System.Threading.Tasks;
 
 namespace EmmettNolan_S00188098
 {
-    class Phone
+    public class Phone
     {
         public string Name { get; set; }
-        public int Price { get; set; }
+        public double Price { get; set; }
         public string OperatingSystem { get; set; }
         public string OS_Image { get; set; }
         public string Phone_Image { get; set; }
+
+        public void IncreasePrice(double amount)
+        {
+            Price += amount * (1.1);
+        }
     }
 }

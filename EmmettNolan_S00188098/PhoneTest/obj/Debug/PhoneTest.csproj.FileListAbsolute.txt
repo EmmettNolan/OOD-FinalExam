@@ -1,0 +1,17 @@
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\bin\Debug\PhoneTest.dll
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\bin\Debug\PhoneTest.pdb
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\bin\Debug\EmmettNolan_S00188098.exe
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\bin\Debug\EmmettNolan_S00188098.pdb
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\bin\Debug\EmmettNolan_S00188098.exe.config
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\obj\Debug\PhoneTest.csprojAssemblyReference.cache
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\obj\Debug\PhoneTest.csproj.CoreCompileInputs.cache
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\obj\Debug\PhoneTest.csproj.CopyComplete
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\obj\Debug\PhoneTest.dll
+C:\Users\Emmett\Documents\GitHub\OOD-FinalExam\EmmettNolan_S00188098\PhoneTest\obj\Debug\PhoneTest.pdb
